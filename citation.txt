@@ -1,0 +1,7 @@
+@inproceedings{REPO266,
+    author = "Bikaun, Tyler and Stewart, Michael and Liu, Wei",
+    booktitle = "Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics: System Demonstrations",
+    pages = "270--278",
+    title = "{QuickGraph: A Rapid Annotation Tool for Knowledge Graph Extraction from Technical Text}",
+    year = "2022"
+}
